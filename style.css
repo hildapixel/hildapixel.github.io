@@ -1,9 +1,14 @@
+/* PENTING */
 .body {
   min-height: 3000px;
 }
 
+section {
+  padding-top: 5rem;
+}
+
 .jumbotron {
-  padding-top: 8rem;
+  padding-top: 10rem;
   background-color: #e2edff;
 }
 
@@ -11,6 +16,86 @@
   background-color: #e2edff;
 }
 
-section {
-  padding-top: 5rem;
+.content-img {
+  width: 100%;
 }
+
+#content .row > * {
+  padding: 0;
+}
+/* AKHIR PENTING */
+
+/* OPSI */
+mark {
+  display: inline-block;
+  background-color: rgb(66, 233, 255);
+  padding: 0.5px 2px 0.5px;
+}
+
+/* Anchor Link Style */
+a {
+  text-decoration: none;
+}
+
+a#ig {
+  color: #e8855f;
+}
+
+a#twitter {
+  color: #00a7e6;
+}
+
+a#fb {
+  color: #1877f2;
+}
+
+a#youtube {
+  color: #f70000;
+}
+
+/* Akhir Anchor Link Style */
+
+/* Content */
+
+a#content1:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content2:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content3:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content4:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content5:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content6:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content7:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content8:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content9:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+a#content10:hover {
+  opacity: 70%;
+  transition: 0.5s;
+}
+
+/* Akhir Content */
